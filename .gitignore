@@ -1,1 +1,5 @@
 archive
+.venv
+.mypy_cache
+scraper.log
+scraper_data.db
